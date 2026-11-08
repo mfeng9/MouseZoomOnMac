@@ -1,0 +1,13 @@
+# build artifacts
+bin/
+MouseZoomOnMac.app/
+
+# OS noise
+.DS_Store
+
+# logs
+*.log
+
+
+# release artifacts (uploaded to GitHub Releases, not tracked)
+*.zip
