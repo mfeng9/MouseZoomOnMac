@@ -1,0 +1,12 @@
+# build artifacts
+bin/
+MouseZoomOnMac.app/
+
+# OS noise
+.DS_Store
+
+# logs
+*.log
+
+# old local build name (pre-rename)
+Mac Mouse Zoom.app/
